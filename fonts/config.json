@@ -1,0 +1,498 @@
+{
+  "name": "ForecastIcons",
+  "css_prefix_text": "",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "4efb719e797c54b3c58e5ae061d29d53",
+      "css": "droplet",
+      "code": 59392,
+      "src": "entypo"
+    },
+    {
+      "uid": "bbd66ef66bb8fa9edde54d9a90b89150",
+      "css": "user",
+      "code": 59393,
+      "src": "entypo"
+    },
+    {
+      "uid": "7184d8171b6a9b18eabbace94cca21db",
+      "css": "chart-line",
+      "code": 59394,
+      "src": "entypo"
+    },
+    {
+      "uid": "7d90b6cb3f3783170a96b09e5f0de6d5",
+      "css": "chart-bar",
+      "code": 59395,
+      "src": "entypo"
+    },
+    {
+      "uid": "32b4054f35918992f723e39f4095f005",
+      "css": "chart-area",
+      "code": 59396,
+      "src": "entypo"
+    },
+    {
+      "uid": "fb5082fac1794b69a1381196219a836e",
+      "css": "chart-pie",
+      "code": 59397,
+      "src": "entypo"
+    },
+    {
+      "uid": "8704cd847a47b64265b8bb110c8b4d62",
+      "css": "down-open",
+      "code": 59398,
+      "src": "entypo"
+    },
+    {
+      "uid": "c311c48d79488965b0fab7f9cd12b6b5",
+      "css": "left-open",
+      "code": 59399,
+      "src": "entypo"
+    },
+    {
+      "uid": "749e7d90a9182938180f1d2d8c33584e",
+      "css": "right-open",
+      "code": 59400,
+      "src": "entypo"
+    },
+    {
+      "uid": "9c7ff134960bb5a82404e4aeaab366d9",
+      "css": "up-open",
+      "code": 59401,
+      "src": "entypo"
+    },
+    {
+      "uid": "40ef3542646bed70cb63f1290c9d98c9",
+      "css": "down-circled",
+      "code": 59402,
+      "src": "entypo"
+    },
+    {
+      "uid": "0db0310883e0bdacfd1bb2d394238e8a",
+      "css": "left-circled",
+      "code": 59403,
+      "src": "entypo"
+    },
+    {
+      "uid": "52725ff4d4042964bd3a60609bf3695b",
+      "css": "right-circled",
+      "code": 59404,
+      "src": "entypo"
+    },
+    {
+      "uid": "64691230b90991883f94c6dfb2afc90a",
+      "css": "up-circled",
+      "code": 59405,
+      "src": "entypo"
+    },
+    {
+      "uid": "289b5f92f23acf1059c93fbf401c1ad5",
+      "css": "down-open-big",
+      "code": 59406,
+      "src": "entypo"
+    },
+    {
+      "uid": "884cfc3e6e2d456dd2a2ca0dbb9e6337",
+      "css": "left-open-big",
+      "code": 59407,
+      "src": "entypo"
+    },
+    {
+      "uid": "004882ab2d5c418c5b2060e80596279b",
+      "css": "right-open-big",
+      "code": 59408,
+      "src": "entypo"
+    },
+    {
+      "uid": "0805cca616b3c12714f35af4d0912c10",
+      "css": "up-open-big",
+      "code": 59409,
+      "src": "entypo"
+    },
+    {
+      "uid": "d5098cb09be5827a2911dbab5af49ad2",
+      "css": "down",
+      "code": 59410,
+      "src": "entypo"
+    },
+    {
+      "uid": "9e67bfab0143d9511f8eef6897caeb88",
+      "css": "right",
+      "code": 59411,
+      "src": "entypo"
+    },
+    {
+      "uid": "43c4064ec1260d0e55c37e0467c75cbb",
+      "css": "up",
+      "code": 59412,
+      "src": "entypo"
+    },
+    {
+      "uid": "3bd18d47a12b8709e9f4fe9ead4f7518",
+      "css": "arrows-ccw",
+      "code": 59413,
+      "src": "entypo"
+    },
+    {
+      "uid": "465bb89b6f204234e5787c326b4ae54c",
+      "css": "ccw",
+      "code": 59414,
+      "src": "entypo"
+    },
+    {
+      "uid": "bc64550dd022ce21604f97309b346cea",
+      "css": "cog",
+      "code": 59415,
+      "src": "entypo"
+    },
+    {
+      "uid": "513ac180ff85bd275f2b736720cbbf5e",
+      "css": "home",
+      "code": 59416,
+      "src": "entypo"
+    },
+    {
+      "uid": "63b86fedd4ee9ad2105f54f4888e7088",
+      "css": "info",
+      "code": 59417,
+      "src": "entypo"
+    },
+    {
+      "uid": "7e4164950ffa4990961958b2d6318658",
+      "css": "info-circled",
+      "code": 59418,
+      "src": "entypo"
+    },
+    {
+      "uid": "97902f87200ce74d181044df02a0458d",
+      "css": "attention",
+      "code": 59419,
+      "src": "entypo"
+    },
+    {
+      "uid": "a42b598e4298f3319b25a2702a02e7ff",
+      "css": "location",
+      "code": 59420,
+      "src": "entypo"
+    },
+    {
+      "uid": "38df55dcf9551222dec9f0905a63b334",
+      "css": "percentage",
+      "code": 62785,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "5559f5ccb071d6d34d2c1ad0e0a88ad2",
+      "css": "percent",
+      "code": 62101,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "d4939d1f4e5f03f6e58900b2ac8f1c6c",
+      "css": "thermometer",
+      "code": 59421,
+      "src": "entypo"
+    },
+    {
+      "uid": "b69ac48f8ad98e786047ff3d33101045",
+      "css": "windy-rain-inv",
+      "code": 59422,
+      "src": "meteocons"
+    },
+    {
+      "uid": "87cf185e0420ff98e04406c0fbb873eb",
+      "css": "snow-inv",
+      "code": 59423,
+      "src": "meteocons"
+    },
+    {
+      "uid": "f1315f7ea135cbea7966cce0e7c10ce0",
+      "css": "snow-heavy-inv",
+      "code": 59424,
+      "src": "meteocons"
+    },
+    {
+      "uid": "ab5c31256cdd1f6b2d6de7202936f5a1",
+      "css": "hail-inv",
+      "code": 59425,
+      "src": "meteocons"
+    },
+    {
+      "uid": "8f1bbb4667a8372dc4bb7de767f22f11",
+      "css": "clouds-inv",
+      "code": 59426,
+      "src": "meteocons"
+    },
+    {
+      "uid": "b2b73369982f91cddf8ec5f2a692e5ea",
+      "css": "clouds-flash-inv",
+      "code": 59427,
+      "src": "meteocons"
+    },
+    {
+      "uid": "906a8ebb0faf8db0411028a0364bb16d",
+      "css": "temperature",
+      "code": 59428,
+      "src": "meteocons"
+    },
+    {
+      "uid": "a6a5b2ea227f86157ba54ae543785161",
+      "css": "compass",
+      "code": 59429,
+      "src": "meteocons"
+    },
+    {
+      "uid": "053a1eaf96184e74876f45bd0f4970eb",
+      "css": "na",
+      "code": 59430,
+      "src": "meteocons"
+    },
+    {
+      "uid": "39a24b1eb625a4a551585745107e8ef0",
+      "css": "celcius",
+      "code": 59431,
+      "src": "meteocons"
+    },
+    {
+      "uid": "5478f7c5cc0ad4897835f711eccea4dd",
+      "css": "fahrenheit",
+      "code": 59432,
+      "src": "meteocons"
+    },
+    {
+      "uid": "d05dd160c24e53afc4addd30b5655b74",
+      "css": "clouds-flash-alt",
+      "code": 59433,
+      "src": "meteocons"
+    },
+    {
+      "uid": "c1306ee779029bed4f5a2b9b4f5c79e8",
+      "css": "sun-inv",
+      "code": 59434,
+      "src": "meteocons"
+    },
+    {
+      "uid": "2adfda136b09532bd8174b025b67fe87",
+      "css": "moon-inv",
+      "code": 59435,
+      "src": "meteocons"
+    },
+    {
+      "uid": "2c304ff49075ec9647f498504651abf5",
+      "css": "cloud-sun-inv",
+      "code": 59436,
+      "src": "meteocons"
+    },
+    {
+      "uid": "c823149b79158a2bd56d802a6a6f1d1c",
+      "css": "cloud-moon-inv",
+      "code": 59437,
+      "src": "meteocons"
+    },
+    {
+      "uid": "7162ef3c04c51e39b8670cfedb15bcc3",
+      "css": "cloud-inv",
+      "code": 59438,
+      "src": "meteocons"
+    },
+    {
+      "uid": "4bc859f73783486400fc769a90d0a8e0",
+      "css": "cloud-flash-inv",
+      "code": 59439,
+      "src": "meteocons"
+    },
+    {
+      "uid": "92234661a134ed625a779c534b242b3d",
+      "css": "drizzle-inv",
+      "code": 59440,
+      "src": "meteocons"
+    },
+    {
+      "uid": "8d8a2d9bcc41c7ac794e83ffbb919c3c",
+      "css": "rain-inv",
+      "code": 59441,
+      "src": "meteocons"
+    },
+    {
+      "uid": "be6c21cbc48e60a39e80f8b2c33e360e",
+      "css": "windy-inv",
+      "code": 59442,
+      "src": "meteocons"
+    },
+    {
+      "uid": "1c2a34e8bd2f8a53e3b059447a8e544f",
+      "css": "sunrise",
+      "code": 59443,
+      "src": "meteocons"
+    },
+    {
+      "uid": "95fb2e5fdd1ea7e4a420b6ed330e6b08",
+      "css": "sun",
+      "code": 59444,
+      "src": "meteocons"
+    },
+    {
+      "uid": "34e68aa8fbf61f02a748043ccf448a3b",
+      "css": "moon",
+      "code": 59445,
+      "src": "meteocons"
+    },
+    {
+      "uid": "48ab39ab0ba664052cfbf0e52563246a",
+      "css": "eclipse",
+      "code": 59446,
+      "src": "meteocons"
+    },
+    {
+      "uid": "a555120b3743d482efcc3058733d3fd9",
+      "css": "mist",
+      "code": 59447,
+      "src": "meteocons"
+    },
+    {
+      "uid": "2efb5347832a09ae69de043f897ec4b9",
+      "css": "wind",
+      "code": 59448,
+      "src": "meteocons"
+    },
+    {
+      "uid": "d0c325468a74095e565664bec2623aa3",
+      "css": "snowflake",
+      "code": 59449,
+      "src": "meteocons"
+    },
+    {
+      "uid": "9cd3e294ca3ad3dda66bc5a804021c46",
+      "css": "cloud-sun",
+      "code": 59450,
+      "src": "meteocons"
+    },
+    {
+      "uid": "2440f961b415837c6bf30424a6711708",
+      "css": "cloud-moon",
+      "code": 59451,
+      "src": "meteocons"
+    },
+    {
+      "uid": "957fd72e52a0e9eb585a0361114c4c83",
+      "css": "fog-sun",
+      "code": 59452,
+      "src": "meteocons"
+    },
+    {
+      "uid": "dbf0f9c3d15e5e8046bb5f5fb5898b49",
+      "css": "fog-moon",
+      "code": 59453,
+      "src": "meteocons"
+    },
+    {
+      "uid": "aba39b610b88a73d81f0fa683649b92d",
+      "css": "fog-cloud",
+      "code": 59454,
+      "src": "meteocons"
+    },
+    {
+      "uid": "2ca5a006e414e0827f7fc5b187689c04",
+      "css": "fog",
+      "code": 59455,
+      "src": "meteocons"
+    },
+    {
+      "uid": "17463471d0f132cee16835507ea51ecf",
+      "css": "cloud",
+      "code": 59456,
+      "src": "meteocons"
+    },
+    {
+      "uid": "cc1179bd34dcbe7bf80785075af60d37",
+      "css": "cloud-flash",
+      "code": 59457,
+      "src": "meteocons"
+    },
+    {
+      "uid": "9af2b75a89bd99b83457f041df26da8b",
+      "css": "cloud-flash-alt",
+      "code": 59458,
+      "src": "meteocons"
+    },
+    {
+      "uid": "f59875f40cbc5ad1b04775cd96feabf1",
+      "css": "drizzle",
+      "code": 59459,
+      "src": "meteocons"
+    },
+    {
+      "uid": "d577552bb94bdeb53e6517873481aeea",
+      "css": "rain",
+      "code": 59460,
+      "src": "meteocons"
+    },
+    {
+      "uid": "5fad7d41511701337ddd5ad9896edc4b",
+      "css": "windy",
+      "code": 59461,
+      "src": "meteocons"
+    },
+    {
+      "uid": "86351391d6cbc7a85730414294139661",
+      "css": "windy-rain",
+      "code": 59462,
+      "src": "meteocons"
+    },
+    {
+      "uid": "127ed05f3c024a9c73487f18cf3d530d",
+      "css": "snow",
+      "code": 59463,
+      "src": "meteocons"
+    },
+    {
+      "uid": "02bb2eaa1515b8fc954abbaf80212739",
+      "css": "snow-alt",
+      "code": 59464,
+      "src": "meteocons"
+    },
+    {
+      "uid": "0f6059e468716a93329821bcbf11220d",
+      "css": "snow-heavy",
+      "code": 59465,
+      "src": "meteocons"
+    },
+    {
+      "uid": "b500010a53f4807828ac252725dc6fd1",
+      "css": "hail",
+      "code": 59466,
+      "src": "meteocons"
+    },
+    {
+      "uid": "b215adc51ca2aa37e7bbe244d1fa52cc",
+      "css": "clouds",
+      "code": 59467,
+      "src": "meteocons"
+    },
+    {
+      "uid": "f4c428e42b86673278e98e6f2e0a8cd2",
+      "css": "clouds-flash",
+      "code": 59468,
+      "src": "meteocons"
+    },
+    {
+      "uid": "99b51d262de8b095906c408f89deb6fd",
+      "css": "guage",
+      "code": 59469,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M406.4 680C371.9 739.9 395.1 789 442.9 816.6 490.8 844.3 545 839.9 579.6 780 614 720.3 831.9 186.8 813 175.8 794 164.9 440.9 620.2 406.4 680ZM500 300C521.9 300 543.2 301.9 564.1 305.4 586 278 610.5 247.8 634.3 219.1A483.2 483.2 0 0 0 500 200C219.6 200 0 436.4 0 738.3 0 756.9 0.8 775.4 2.5 793.5 4.9 821 29.5 841.2 56.6 838.9 84.2 836.3 104.5 812.1 102 784.6A523.1 523.1 0 0 1 100 738.3C100 492.5 275.7 300 500 300ZM861 362.5C847 400 832.3 438.2 819.3 471.2 870 544.7 900 636.9 900 738.3 900 754.1 899.3 770 897.9 785.4A50 50 0 0 0 997.5 794.5C999.1 776.1 1000 757.2 1000 738.3 1000 590.6 947.3 458.8 861 362.5Z",
+        "width": 1000
+      },
+      "search": [
+        "guage"
+      ]
+    }
+  ]
+}
