@@ -1,7 +1,6 @@
 # Weather Viewer
 
-This is the public code for a weather viewing application.
-
+This is the public code for a weather viewing application. More information is at: https://jlwilson.net/projects/weather-system/
 ## Screenshots
 
 ### Home
